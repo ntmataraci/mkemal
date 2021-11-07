@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mkemal/static/css/main.67263d54.chunk.css",
+    "main.js": "/mkemal/static/js/main.a848af04.chunk.js",
+    "main.js.map": "/mkemal/static/js/main.a848af04.chunk.js.map",
+    "runtime-main.js": "/mkemal/static/js/runtime-main.a364c94f.js",
+    "runtime-main.js.map": "/mkemal/static/js/runtime-main.a364c94f.js.map",
+    "static/js/2.97eeeade.chunk.js": "/mkemal/static/js/2.97eeeade.chunk.js",
+    "static/js/2.97eeeade.chunk.js.map": "/mkemal/static/js/2.97eeeade.chunk.js.map",
+    "static/js/3.0d54afef.chunk.js": "/mkemal/static/js/3.0d54afef.chunk.js",
+    "static/js/3.0d54afef.chunk.js.map": "/mkemal/static/js/3.0d54afef.chunk.js.map",
+    "index.html": "/mkemal/index.html",
+    "static/css/main.67263d54.chunk.css.map": "/mkemal/static/css/main.67263d54.chunk.css.map",
+    "static/js/2.97eeeade.chunk.js.LICENSE.txt": "/mkemal/static/js/2.97eeeade.chunk.js.LICENSE.txt",
+    "static/media/background.css": "/mkemal/static/media/background.28be8274.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a364c94f.js",
+    "static/js/2.97eeeade.chunk.js",
+    "static/css/main.67263d54.chunk.css",
+    "static/js/main.a848af04.chunk.js"
+  ]
+}
